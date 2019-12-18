@@ -13,9 +13,13 @@
 ---
 
 Only Current Legitimate Bot Named Lutu & Or Using This Software Is https://discord-app.tk/584279261368811520
--T2p8D3RpUcqX-War9YQSrtRF85YZcIETzEdOOQ2-T2p8D3RpUcqX-War9YQSrtRF85YZcIETzEdOOQ2tag2RmhDMqIGqZKt7CrQYofcAOj55mgxcjk3vou-AOifd_a1if-_jIqRXm5NLEMBHmiuKhTTlarGpeiIpMyy7RiPwE5YOENseGe7mccdoLt0IncicvlyRjKoO-ZBextfQj-tpjJQWera8JEni9RKcMzPv4iI-hoWuf_
 
-All other boys including, But Not Limited To | `"Wolf Security:" 577025984306479132` Is a clone & a violation of the license agreement. All bots found in violation will have action taken at the highest extent. This software is only to be used to improve existing code. (`That does not mean self host it and act like you built it!`)
+All other bots including, But Not Limited To: 
+
+* `"Wolf Security:" 577025984306479132` 
+
+Is a clone & a violation of the license agreement. All bots found in violation will have action taken at the highest extent. This software is only to be used to improve existing code. (`That does not mean self host it and act like you built it!`)
+
 ---
 
 ## About
