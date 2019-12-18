@@ -1,6 +1,4 @@
 [![MIT](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://github.com/MrAugu/lutu-discord-bot/blob/master/LICENSE)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/MrAugu/lutu-discord-bot?style=for-the-badge)
-![David](https://img.shields.io/david/MrAugu/lutu-discord-bot?style=for-the-badge)
 ![node](https://img.shields.io/node/v/discord.js?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/MrAugu/lutu-discord-bot?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/MrAugu/lutu-discord-bot?style=for-the-badge)
@@ -23,7 +21,9 @@ Is a clone & a violation of the license agreement. All bots found in violation w
 ---
 
 ## About
-Lutu is an open source discord bot with a dashboard and alot of commands, Only Official Instance Is: https://discord-app.tk/584279261368811520 [Imgur](https://imgur.com/oSbf5xQ) Use any of the bots named *Lutu* at your own risk.
+Lutu is an open source discord bot with a dashboard and alot of commands, Only Official Instance Is: 
+https://discord-app.tk/584279261368811520 [Imgur](https://imgur.com/oSbf5xQ) 
+Use any of the bots named *Lutu* at your own risk.
 
 Special thanks to [Zaydme](https://github.com/Zaydme) for his contributions to the bot.
 
