@@ -14,16 +14,6 @@ const config = {
     "port": 80
   },
 
-  /* Channels */
-  "appealEmbedChannel": "CHANNEL_ID",
-  "banListLogChannel": "CHANNEL_ID",
-  "reportRejectedEmbedChannel": "CHANNEL_ID",
-  "reportApprovedEmbedChannel": "CHANNEL_ID",
-  "newReportEmbed": "CHANNEL_ID",
-  "guildLogChannel": "CHANNEL_ID",
-  "commandLogChannel": "CHANNEL_ID",
-  "errorChannel": "CHANNEL_ID",
-
   permLevels: [
     { level: 0,
       name: "User",
