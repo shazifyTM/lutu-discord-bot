@@ -10,6 +10,13 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/for-you.svg)](https://forthebadge.com)
 
+---
+
+Only Current Legitimate Bot Named Lutu & Or Using This Software Is https://discord-app.tk/bot/584279261368811520?__cf_chl_jschl_tk__=d871613da5caf02813a8edca57f455016263a21a-1576708320-0-AaclnYOODiXwAB7ntxwxGdgvG9Xekef7ZN9bhUnIw-NVGX8NJoWYBI4mXTNr24RThjVZAfyvc3nv1dRH8lJWf5vAaDT3TNA0I-T2p8D3RpUcqX-War9YQSrtRF85YZcIETzEdOOQ2tag2RmhDMqIGqZKt7CrQYofcAOj55mgxcjk3vou-AOifd_a1if-_jIqRXm5NLEMBHmiuKhTTlarGpeiIpMyy7RiPwE5YOENseGe7mccdoLt0IncicvlyRjKoO-ZBextfQj-tpjJQWera8JEni9RKcMzPv4iI-hoWuf_
+
+All other boys including, But Not Limited To | `"Wolf Security:" 577025984306479132` Is a clone & a violation of the license agreement. All bots found in violation will have action taken at the highest extent. This software is only to be used to improve existing code. (`That does not mean self host it and act like you built it!`)
+---
+
 ## About
 Lutu is an open source discord bot with a dashboard and alot of commands. No official instance is online anymore. Use any of the bots named *Lutu* at your own risk.
 
