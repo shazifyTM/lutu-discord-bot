@@ -66,4 +66,4 @@ sudo node index
 `sudo` is required in order to bind your application to port 80.
 
 ## Need help setting up config.js or starting bot?
-For help & support join [MrAugu's Discord Server](https://discord.gg/rk7cVyk).
+For help & support join [MrAugu's Discord Server](https://discord.gg/).
