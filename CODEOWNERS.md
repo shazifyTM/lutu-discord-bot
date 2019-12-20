@@ -1,2 +1,1 @@
-
 /lutu-discord-bot @ClearlyElevated
