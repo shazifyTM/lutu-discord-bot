@@ -1,1 +1,1 @@
-/lutu-discord-bot @ClearlyElevated
+/master/ @ClearlyElevated
