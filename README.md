@@ -25,7 +25,11 @@ Lutu is an open source discord bot with a dashboard and alot of commands, Only O
 https://discord-app.tk/584279261368811520 [Imgur](https://imgur.com/oSbf5xQ) 
 Use any of the bots named *Lutu* at your own risk.
 
+---
+
 Special thanks to [Zaydme](https://github.com/Zaydme) for his contributions to the bot.
+
+---
 
 ## Maintenance
 No new features are going to be implemented outside pull requests from people. All issues opened that require fixes will be fixed.
