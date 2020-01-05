@@ -6,7 +6,7 @@ const Infractions = require("../models/infractions.js");
 const warningHandler = require("../handlers/serverLogger.js");
 const logHandler = require("../handlers/serverLogger.js");
 const validUrl = require("valid-url");
-const sightengine = require("sightengine")("38148958", "uiFsNBwgwgLRLeZoRrvv");
+const sightengine = require("sightengine")("", "");
 
 mongoose.connect(databaseUrl, {
   useNewUrlParser: true
