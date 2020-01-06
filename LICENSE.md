@@ -6,6 +6,7 @@ By accessing the website: https://lutu.dev and using the discord bot, you are ag
 2. User License
 1. Permission is granted to temporarily download one copy of the materials (information or software) on Lutu Administration Team's website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:
 
+```
 1. modify or copy the materials;
 2. use the materials for any commercial purpose, or for any public display (commercial or non-commercial);
 3. attempt to decompile or reverse engineer any software contained on Lutu bot or it's website;
@@ -14,6 +15,7 @@ By accessing the website: https://lutu.dev and using the discord bot, you are ag
 6. abuse our service, spamming commands; or
 7. trying to use echo command to compromise reputation of Lutu ("the bot") or distributing of malicious software links and/or malicious messages
 2. This license shall automatically terminate if you violate any of these restrictions and may be terminated by Lutu Administration Team at any time. Upon terminating your viewing of these materials or upon the termination of this license, you must destroy any downloaded materials in your possession whether in electronic or printed format.
+```
 
 3. Disclamer
 1. The materials on Lutu bot and website are provided on an 'as is' basis. Lutu Administration Team makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
