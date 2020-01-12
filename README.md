@@ -13,11 +13,13 @@
 
 Only Current Legitimate Bot Named Lutu & Or Using This Software Is https://www.discord.js.services/584279261368811520
 
-All other bots including, But Not Limited To: 
+---
+
+> All other bots including, But Not Limited To: 
 
 * `"Wolf Security:" 577025984306479132` 
 
-Is a clone & a violation of the license agreement. All bots found in violation will have action taken at the highest extent. This software is only to be used to improve existing code. (`That does not mean self host it and act like you built it!`)
+> Is a clone & a violation of the license agreement. All bots found in violation will have action taken at the highest extent. This software is only to be used to improve existing code. (`That does not mean self host it and act like you built it!`)
 
 ---
 
