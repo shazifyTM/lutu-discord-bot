@@ -14,7 +14,7 @@
 
 ## About
 Lutu is an open source discord bot with a dashboard and alot of commands, Only Official Instance Is: 
-https://discord-app.tk/584279261368811520 [Imgur](https://imgur.com/oSbf5xQ) 
+https://discordjs.services/lutu [Imgur](https://imgur.com/oSbf5xQ) 
 Use any of the bots named *Lutu* at your own risk.
 
 ---
