@@ -11,7 +11,7 @@
 
 ---
 
-Only Current Legitimate Bot Named Lutu & Or Using This Software Is https://discord-app.tk/584279261368811520
+Only Current Legitimate Bot Named Lutu & Or Using This Software Is https://discordjs.services/lutu
 
 All other bots including, But Not Limited To: 
 
