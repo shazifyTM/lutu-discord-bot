@@ -13,10 +13,11 @@
 ---
 
 ## About
-Lutu is an open source discord bot with a dashboard and alot of commands, Only Official Instance Is: 
-`You are welcome to use any of the provided code. as long as you adhere to thr licanse, witch states. all changes must be provided if it is in this codebase or another. and all changes to the lutu bot (if you are using this as a starting point must be stated as well.` __I have provided a copy of the current licanse, you can view it by navagating to the licanse.md file__
-https://discordjs.services/lutu [Imgur](https://imgur.com/oSbf5xQ) 
+Lutu is an open source discord bot with a dashboard and alot of commands, Only Official Instance Is: https://discordjs.services/lutu [Imgur](https://imgur.com/oSbf5xQ) 
 Use any of the bots named *Lutu* at your own risk.
+
+`You are welcome to use any of the provided code. as long as you adhere to thr licanse, witch states. all changes must be provided if it is in this codebase or another. and all changes to the lutu bot (if you are using this as a starting point must be stated as well.` __I have provided a copy of the current licanse, you can view it by navagating to the licanse.md file__
+
 
 ---
 
