@@ -1,5 +1,5 @@
 ![Discord](https://img.shields.io/discord/523521672829992970?color=%237289da&label=Discord&style=for-the-badge)
-[![MIT](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://github.com/MrAugu/lutu-discord-bot/blob/master/LICENSE)
+[![MIT](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://github.com/MrAugu/lutu-disacord-bot/blob/master/LICENSE)
 ![node](https://img.shields.io/node/v/discord.js?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/MrAugu/lutu-discord-bot?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/MrAugu/lutu-discord-bot?style=for-the-badge)
